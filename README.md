@@ -38,6 +38,7 @@ Languages : 🇺🇦 Ukrainian - Native | 🇬🇧 English - B1
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-E55F5?style=flat-square&logo=Postman&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-E34F26?style=flat-square&logo=NPM&logoColor=white" />
   <img alt="VScode" src="https://img.shields.io/badge/-VScode-007acc?style=flat-square&logo=visual studio code&logoColor=white" />
-      <img alt="Figma" src="https://img.shields.io/badge/-Figma-007acc?style=flat-square&logo=figma&logoColor=white" />
-          <img alt="Slack" src="https://img.shields.io/badge/-Slack-007acc?style=flat-square&logo=slack&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+    <img alt="Tailwind css" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwind css&logoColor=white" />
 </p>
