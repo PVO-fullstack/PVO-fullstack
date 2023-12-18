@@ -12,7 +12,7 @@ Languages : 🇺🇦 Ukrainian - Native | 🇬🇧 English - B1
 <p align="left">
 <a href="https://www.linkedin.com/in/plevako-viacheslav/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
 <a href="https://t.me/PVO_fullstack"><img src="https://img.shields.io/badge/telegram-26A5E4?logo=telegram&style=for-the-badge
-" alt="linkedin" title="Linkedin" /></a>
+" alt="telegram" title="Telegram" /></a>
 
 <h2 align="left">My stack:</h2>
 
